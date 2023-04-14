@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/inforce_tt/static/css/main.31d6cfe0.css",
+    "main.js": "/inforce_tt/static/js/main.ea5ff30a.js",
+    "index.html": "/inforce_tt/index.html",
+    "main.ea5ff30a.js.map": "/inforce_tt/static/js/main.ea5ff30a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ea5ff30a.js"
+  ]
+}
